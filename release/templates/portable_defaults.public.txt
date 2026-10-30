@@ -1,0 +1,1 @@
+  $c=[pscustomobject]@{Dataset='data/user/v7';AstrBotRoot='data/user/astrbot';GatewayEnv='data/user/gateway.env';MemoryConfig='data/portable/memory.json';BackendPort=8010;OneBotPort=6199;SnowLumaUrl='http://127.0.0.1:5099';ModelConfig='deepseek';AutoMemorySync=$false}

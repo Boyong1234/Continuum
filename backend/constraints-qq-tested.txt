@@ -1,0 +1,12 @@
+# Environment used for the QQ adapter rehearsal; -c constrains, doesn't install.
+fastapi==0.162.0
+starlette==1.10.0
+uvicorn==0.54.0
+SQLAlchemy==2.0.55
+pydantic==2.14.1
+httpx==0.28.1
+pytest==9.1.1
+websockets==17.3
+PyYAML==6.0.3
+python-dotenv==1.2.4
+anyio==4.15.1

@@ -1,0 +1,12 @@
+/data/
+/runtime/
+/deliveries/
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.db*

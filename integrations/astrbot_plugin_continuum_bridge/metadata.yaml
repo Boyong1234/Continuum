@@ -1,0 +1,8 @@
+name: astrbot_plugin_continuum_bridge
+display_name: Continuum Channel Bridge
+desc: Local private OneBot gateway; no AI, persona, history or memory.
+version: 0.1.0
+author: Continuum
+astrbot_version: '>=4.29.3,<4.30.0'
+support_platforms:
+  - aiocqhttp
